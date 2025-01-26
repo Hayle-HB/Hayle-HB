@@ -17,7 +17,7 @@ I'm a passionate Software Engineering Student at AASTU and a graduate of Founder
 - 💬 Ask me about **Web Development, Software Engineering, and Entrepreneurship**
 - 📫 How to reach me: **haylemeskelhaylemariam@gmail.com**
 - 📱 Phone: **+251962484250**
-- ⚡ Fun fact: **Coding with a purpose - building tech that makes a difference!**
+- ⚡ Fun fact: **Coding with a purpose - building tech that makes a difference!** 
 
 ## 🛠️ Skills
 
