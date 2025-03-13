@@ -19,7 +19,6 @@ I'm a passionate Software Engineering Student at AASTU and a graduate of Founder
 - 📱 Phone: **+251962484250**
 - ⚡ Fun fact: **Coding with a purpose - building tech that makes a difference!**
 
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 ```typescript
@@ -33,9 +32,7 @@ const Haylemeskel = {
 };
 ```
 
-<details>
-<summary>🛠️ Skills & Technologies</summary>
-<br>
+## 🛠️ Skills & Technologies
 
 ### 👨‍💻 Programming Languages
 
@@ -65,11 +62,8 @@ const Haylemeskel = {
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
-</details>
 
-<details>
-<summary>📊 GitHub Analytics</summary>
-<br>
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hayle-HB&show_icons=true&theme=tokyonight&border_radius=20" width="49%" alt="stats" />
@@ -87,7 +81,6 @@ const Haylemeskel = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hayle-HB&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
-</details>
 
 ## 🎯 Current Projects
 
