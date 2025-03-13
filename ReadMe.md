@@ -116,38 +116,42 @@ I'm a passionate Software Engineering Student at AASTU and a graduate of Founder
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%" />
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Haylemeskel;Full+Stack+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
-</div>
+  
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px">
+    Software Engineering Student | Full Stack Developer in Training
+  </h2>
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/Hayle-HB?style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Hayle-HB?style=social" alt="GitHub stars" />
-  <img src="https://komarev.com/ghpvc/?username=Hayle-HB&color=blue" alt="Profile Views" />
-</div>
+  <p>
+    <a href="https://github.com/Hayle-HB">
+      <img src="https://img.shields.io/github/followers/Hayle-HB?style=social" alt="GitHub followers" />
+    </a>
+    <img src="https://img.shields.io/github/stars/Hayle-HB?style=social" alt="GitHub stars" />
+    <img src="https://komarev.com/ghpvc/?username=Hayle-HB&color=blue" alt="Profile Views" />
+  </p>
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px">
-  Software Engineering Student | Full Stack Developer in Training
-</h2>
+  <p>
+    <a href="https://github.com/Hayle-HB">
+      <img src="https://img.shields.io/badge/GitHub-Follow-brightgreen?style=for-the-badge&logo=github" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/haylemeskel-haylemariam-b9212b298/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://t.me/Hayle_HB">
+      <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
+    </a>
+    <a href="https://proghubs.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=safari" alt="Portfolio" />
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/Hayle-HB">
-    <img src="https://img.shields.io/badge/GitHub-Follow-brightgreen?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/haylemeskel-haylemariam-b9212b298/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/Hayle_HB">
-    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
-  </a>
-  <a href="https://proghubs.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=safari" alt="Portfolio" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hayle-HB&show_icons=true&theme=tokyonight&border_radius=20" width="49%" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hayle-HB&theme=tokyonight&border_radius=20" width="49%" alt="streak" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Hayle-HB&show_icons=true&theme=tokyonight&border_radius=20" width="49%" alt="stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hayle-HB&theme=tokyonight&border_radius=20" width="49%" alt="streak" />
+  </div>
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
