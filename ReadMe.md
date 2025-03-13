@@ -3,20 +3,21 @@
 ## Software Engineering Student | Full Stack Developer in Training
 
 [![GitHub followers](https://img.shields.io/github/followers/Hayle-HB?style=social)](https://github.com/Hayle-HB)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio-site.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/haylemeskel-haylemariam-b9212b298/)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/Hayle_HB)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://proghubs.vercel.app)
 
 ## 👨‍💻 About Me
 
 I'm a passionate Software Engineering Student at AASTU and a graduate of Founders Academy at ALX, where I honed my entrepreneurial mindset and business acumen. With a strong passion for technology and problem-solving, I am on a journey to become a Full Stack Developer and create innovative solutions that impact lives.
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
+- 🔭 I'm currently working on **[EcoFarmIQ](https://ecofarmiq.vercel.app)** and **[ProgHubs](https://proghubs.vercel.app)**
+- 🌱 I'm currently learning **Full Stack Development**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, Software Engineering, and Entrepreneurship**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[Interesting fact about yourself]**
+- 📫 How to reach me: **haylemeskelhaylemariam@gmail.com**
+- 📱 Phone: **+251962484250**
+- ⚡ Fun fact: **Coding with a purpose - building tech that makes a difference!**
 
 ## 🛠️ Skills
 
@@ -65,11 +66,11 @@ I'm a passionate Software Engineering Student at AASTU and a graduate of Founder
 ## 📌 Pinned Projects
 
 <div align="center">
-  <a href="https://github.com/Hayle-HB/project-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hayle-HB&repo=project-name-1&theme=radical" alt="Project 1" />
+  <a href="https://ecofarmiq.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hayle-HB&repo=ecofarmiq&theme=radical" alt="EcoFarmIQ" />
   </a>
-  <a href="https://github.com/Hayle-HB/project-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hayle-HB&repo=project-name-2&theme=radical" alt="Project 2" />
+  <a href="https://proghubs.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hayle-HB&repo=proghubs&theme=radical" alt="ProgHubs" />
   </a>
 </div>
 
@@ -93,10 +94,11 @@ I'm a passionate Software Engineering Student at AASTU and a graduate of Founder
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haylemeskelhaylemariam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haylemeskel-haylemariam-b9212b298/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hayle_HB)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://t.me/Hayle_HB)
+[![Phone](https://img.shields.io/badge/Phone-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+251962484250)
 
 </div>
 
