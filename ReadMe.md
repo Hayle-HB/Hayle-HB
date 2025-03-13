@@ -201,16 +201,21 @@ const Haylemeskel = {
 <summary>📊 GitHub Analytics</summary>
 <br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hayle-HB&show_icons=true&theme=tokyonight&border_radius=20" width="49%" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hayle-HB&theme=tokyonight&border_radius=20" width="49%" alt="streak" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayle-HB&layout=compact&theme=tokyonight&border_radius=20" width="49%" alt="Top Languages" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hayle-HB&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="Trophy" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hayle-HB&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayle-HB&layout=compact&theme=tokyonight&border_radius=20" width="100%" alt="Top Languages" />
 </p>
 </details>
 
@@ -224,6 +229,11 @@ const Haylemeskel = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hayle-HB&repo=proghubs&theme=tokyonight" alt="ProgHubs" />
   </a>
 </div>
+
+## 🎓 Education
+
+- **AASTU** - Bachelor's Degree in Software Engineering _(Expected Graduation: 2026)_
+- **Founders Academy at ALX** - Entrepreneurship Program _(2024)_
 
 ## 📫 Let's Connect
 
