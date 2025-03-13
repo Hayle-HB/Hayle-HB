@@ -77,18 +77,19 @@ I'm a passionate Software Engineering Student at AASTU and a graduate of Founder
 ## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Hayle-HB&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hayle-HB&theme=react-dark" alt="Activity Graph" />
 </div>
 
 ## 🎓 Education
 
-- **AASTU** - Bachelor's Degree in Software Engineering _(Expected Graduation: 20XX)_
-- **Founders Academy at ALX** - Entrepreneurship Program _(20XX)_
+- **AASTU** - Bachelor's Degree in Software Engineering _(Expected Graduation: 2026)_
+- **Founders Academy at ALX** - Entrepreneurship Program _(2024)_
 
 ## 📜 Certifications
-
-- [Certification Name](certification-link) - Issuing Organization _(Year)_
-- [Certification Name](certification-link) - Issuing Organization _(Year)_
+### <a href='ecofarmiq.vercel.app'> EcoFarmIQ </a>
+<!-- 
+- [Certification Name] (certification-link) - Issuing Organization _(Year)_
+- [Certification Name](certification-link) - Issuing Organization _(Year)_ -->
 
 ## 📫 Contact Me
 
